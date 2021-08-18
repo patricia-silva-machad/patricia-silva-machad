@@ -10,7 +10,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40"                   src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/angularjs/angularjs-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://media.tenor.com/images/ad837fe30b9ad276bb70cfdb08cf7f44/tenor.gif">
 </div>
   
 ![Snake animation](https://github.com/patricia-silva-machad/patricia-silva-machad/blob/output/github-contribution-grid-snake.svg)
