@@ -1,4 +1,6 @@
-### Hey, I'm Patricia Machado
+### Hey, I'm Patricia Machado.
+
+
 
 <div>
   <a href="https://github.com/patricia-silva-machad">
@@ -8,6 +10,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/angularjs/angularjs-original.svg">
- 
 </div>
+  
+![Snake animation](https://github.com/patricia-silva-machad/patricia-silva-machad/blob/output/github-contribution-grid-snake.svg)
   
