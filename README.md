@@ -1,9 +1,5 @@
 ## Hi, I'm Patricia Machado
 
-- Estudante de Engenharia da Computação pela Univesp.
-- Atuo como Engenheira de Software, desenvolvedora Back-end .NetCore 6.0
-- Bootcamp desenvolvedora FullStack pela Generation Brasil.
-
 ![Patricia's GitHub stats](https://github-readme-stats.vercel.app/api?username=patricia-silva-machad&show_icons=true&theme=dracula) 
 
 
